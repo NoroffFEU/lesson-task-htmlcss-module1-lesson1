@@ -16,6 +16,4 @@ By the end of the lesson task, your home page should look like this: ![Home Page
 
 This video shows you how to complete the lesson task 1.1. Only watch it after attempting the lesson task by yourself.
 
-<iframe src="https://player.vimeo.com/video/478422931" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 [View on Vimeo](https://player.vimeo.com/video/478422931)
