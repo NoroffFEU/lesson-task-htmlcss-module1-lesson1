@@ -1,6 +1,6 @@
 # HTML and CSS - Module 1
 
-## Lesson Task 1 Question
+## Task 1
 
 In our lesson tasks we're going to be building a website for a company called 'Guitar Kings'. It is a four page website showcasing their guitars. You can find a prototype of the website in this repository.
 
