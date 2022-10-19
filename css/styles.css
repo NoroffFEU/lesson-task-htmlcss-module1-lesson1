@@ -1,0 +1,20 @@
+header {
+    background-color: #202020;
+}
+
+header a {
+    color: #fff;
+}
+
+.cta {
+    background-color: #bb0000;
+    color: #fff
+}
+
+.reviews {
+    background-color: #e8e8e8;
+}
+
+.featured-products {
+    background-color: #fbfbfb
+}
